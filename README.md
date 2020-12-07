@@ -64,7 +64,7 @@
 		                count++; }
                     
 ## 五.流程图
-- https://github.com/Wcqsss11/Java---5/blob/main/2d3be7914df64eefbc237d6f4353601.png
+![](https://github.com/Wcqsss11/Java---5/blob/main/2d3be7914df64eefbc237d6f4353601.png)
 
 ## 六.核心代码 
        try (FileReader fInputStream = new FileReader("F:////A.txt");   
@@ -76,7 +76,7 @@
         Scanner s=new Scanner(System.in);   
         if( ){                }
 ## 七.系统运行结果：
-- https://github.com/Wcqsss11/Java---5/blob/main/707a4c169fa59e2db4b7d30394875e8.png
+![](https://github.com/Wcqsss11/Java---5/blob/main/707a4c169fa59e2db4b7d30394875e8.png)
 
 ## 八.实验感想：
 - 通过前后五次的实验，我掌握了Java的基本编程规则、知识要点和一些小技巧，特别是对面向对象的编程思想和风格有了进一步的认识和体会。但是在上机调试的时候还是遇到了相当多的问题。很多的错误都很难体会，有的时候是输入的错误，这种错误还是比较容易版找出来的，但是有些问题，；例如本次实验将文件A中的字符读取并输入到文件B中就遇到问题，找了很多同学和我一起去探讨这个问题，最终还是学会了，对于文件夹我终于有了一定的了解，我也深深认识到了自己的不足，望在以后的生活当中好好学习java这一门课程。
